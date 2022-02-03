@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/pk-piya-mum/static/css/main.e2045f63.css",
-    "main.js": "/pk-piya-mum/static/js/main.80d7fa01.js",
-    "static/media/logo.svg": "/pk-piya-mum/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "main.css": "/pk-piya-mum/static/css/main.bf6be70c.css",
+    "main.js": "/pk-piya-mum/static/js/main.1113e012.js",
     "index.html": "/pk-piya-mum/index.html",
-    "main.e2045f63.css.map": "/pk-piya-mum/static/css/main.e2045f63.css.map",
-    "main.80d7fa01.js.map": "/pk-piya-mum/static/js/main.80d7fa01.js.map"
+    "main.bf6be70c.css.map": "/pk-piya-mum/static/css/main.bf6be70c.css.map",
+    "main.1113e012.js.map": "/pk-piya-mum/static/js/main.1113e012.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2045f63.css",
-    "static/js/main.80d7fa01.js"
+    "static/css/main.bf6be70c.css",
+    "static/js/main.1113e012.js"
   ]
 }
